@@ -17,3 +17,5 @@ A negyedik szövegbeviteli mezőt kösse a AverageScore tulajdonsághoz. Ez az �
 Az ötödik szövegbeviteli mezőt kösse a TotalScore tulajdonsághoz. Ez az érték számított adat, a felhasználó nem módosíthatja.  
 Az hatodik szövegbeviteli mezőt kösse a Score tulajdonsághoz. Ez az érték számított adat, a felhasználó nem módosíthatja.  
 
+Továbbfejlesztés (Mindenkinek kötelező) 
+Fejlessze tovább úgy a PointSummary osztályt egy szöveges tulajdonsággal, amely „A diákot felvették!” vagy a „A diákot nem vették fel!” üzenetet adja vissza. Ha az átlagpontszám 70-nél nagyobb akkor vették fel! 
