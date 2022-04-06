@@ -18,4 +18,4 @@ Az ötödik szövegbeviteli mezőt kösse a TotalScore tulajdonsághoz. Ez az é
 Az hatodik szövegbeviteli mezőt kösse a Score tulajdonsághoz. Ez az érték számított adat, a felhasználó nem módosíthatja.  
 
 Továbbfejlesztés (Mindenkinek kötelező) 
-Fejlessze tovább úgy a PointSummary osztályt egy szöveges tulajdonsággal, amely „A diákot felvették!” vagy a „A diákot nem vették fel!” üzenetet adja vissza. Ha az átlagpontszám 70-nél nagyobb akkor vették fel! 
+Fejlessze tovább úgy a PointSummary osztályt egy szöveges tulajdonsággal, amely „Felvi Ferenc felvételt nyert!” vagy a „Felvi Ferenc nem lett felvéve!” üzenetet adja vissza. Ha az átlagpontszám 70-nél nagyobb akkor vették fel! 
