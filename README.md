@@ -6,6 +6,8 @@ A WPF alkalmazás váza legyen a következő
 
 ![Minta](https://github.com/csarp-dotnet-core-wpf-task/wpf-01-04-02-point-summary/blob/main/minta.jpg)
 
+A nézetet egészítse ki a felvételiző öszpontszámának megjelenítésével!
+
 Nyissa meg a Felveteli PointSummary.cs állományt!  
 Fejezze be a Name, MathScore, NativeLanguageScore és TotalScore tulajdonságok kódját!  
 
