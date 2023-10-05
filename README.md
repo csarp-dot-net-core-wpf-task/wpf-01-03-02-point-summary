@@ -4,7 +4,7 @@
 Készítse WPF alkalmazást, amely egy felvételiző felvételi pontszámát kéri be és számítja ki!  
 A WPF alkalmazás váza legyen a következő  
 
-![Minta]()
+![Minta](https://github.com/csarp-dotnet-core-wpf-task/wpf-01-04-02-point-summary/blob/main/minta.jpg)
 
 Nyissa meg a Felveteli PointSummary.cs állományt!  
 Fejezze be a Name, MathScore, NativeLanguageScore és TotalScore tulajdonságok kódját!  
