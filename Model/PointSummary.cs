@@ -48,7 +48,7 @@ namespace oop.Model
         /// <summary>
         /// Anyanyelvi pontszám tulajdonság
         /// </summary>
-        public int NativeLanuageScore
+        public int NativeLanguageScore
         {
 
         }
